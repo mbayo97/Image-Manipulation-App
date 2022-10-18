@@ -3,4 +3,4 @@
  
  Programmed the functionality to stretch the image horizontally, shrink vertically, negate color, apply a color filter, and invert the image 
  
- Created image consisting of random pixels by using a method to randomly place many rectangles in the image 
+ Creates new image consisting of random pixels by using a method to randomly place many rectangles in the image 
